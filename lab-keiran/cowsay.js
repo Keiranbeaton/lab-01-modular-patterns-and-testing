@@ -1,3 +1,3 @@
-module.exports = function(string) {
-  return 'the cow says ' + string;
+module.exports = function(text) {
+  return 'the cow says ' + text;
 };
